@@ -18,7 +18,7 @@ class OnChangeForm extends Component{
     render(){
         return (
             <div>
-                <h1>hello {this.state.name}</h1>
+                <h1>hi {this.state.name}</h1>
                 <form>
                     <label>User Name</label><br/>
                     <input type='text' name="username" onChange={this.userChange}></input><br/>
