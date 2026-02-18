@@ -1,0 +1,57 @@
+1. project setup 
+        npx create-react-app app-name
+
+2. project structure and first code
+
+3. babel & webpack
+        when we go to project deploy on server
+
+        we have to run {npm run build}
+        then it autmatically wrap-up our code and make a folder that is build 
+    
+4. components 
+
+     all the structure of a app made by combination of different component
+
+    there are two types of components
+      
+       i) functional components
+       ii) class components
+
+
+        note: components are alwayas written in Capital letter
+              in small letter reactjs read it as a html not as a components so use capital letter for components always 
+        
+5. jsx 
+
+6. props ?
+      if You want to use one component data to another component area then use prop
+
+
+
+7. state?
+        in props we can use one component data to another component area but in state we can 
+        use data from same component area.
+
+8. event handler with method
+        in this we can create an event and hendle this with any function 
+
+9. State Manipulating
+        in this we can change one state date to another data using event handler. (setState).
+
+10. Dom ?
+        we use DOM to read, change, and control using js.
+
+11. useState Hook 
+        its similar like state we can change the dom data using this with functional components.
+
+12. two way data binding, on change
+        useing this function we can bind data using input field
+
+13. stylesheet & inline style in component
+        we can use style any structure using css 
+
+14. single input from
+
+15. onchange event using single input from
+
