@@ -14,6 +14,7 @@ import Card from './components/StyleSheet';
 import InputForm from './components/Single-input';
 import OnChangeForm from './components/On-change';
 import OnChange2 from './components/OnChange2';
+import OnSubmit from './components/OnSubmit';
 
 
 function App() {
@@ -66,6 +67,9 @@ function App() {
 
         {/* onchange 2 */}
         <OnChange2/>
+
+        {/* On Submit  */}
+        <OnSubmit/>
 
       </header>
     </div>
