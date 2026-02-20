@@ -51,7 +51,11 @@
 13. stylesheet & inline style in component
         we can use style any structure using css 
 
-14. single input from
+14. single input form
 
-15. onchange event using single input from
+15. onchange event using single input form
+
+
+16. onchange anotherway
+
 

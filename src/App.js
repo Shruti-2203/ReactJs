@@ -13,6 +13,7 @@ import DataBinding from './components/DataBinding';
 import Card from './components/StyleSheet';
 import InputForm from './components/Single-input';
 import OnChangeForm from './components/On-change';
+import OnChange2 from './components/OnChange2';
 
 
 function App() {
@@ -62,6 +63,9 @@ function App() {
 
         {/* onchange  */}
         <OnChangeForm/>
+
+        {/* onchange 2 */}
+        <OnChange2/>
 
       </header>
     </div>
