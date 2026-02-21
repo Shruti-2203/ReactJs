@@ -15,6 +15,7 @@ import InputForm from './components/Single-input';
 import OnChangeForm from './components/On-change';
 import OnChange2 from './components/OnChange2';
 import OnSubmit from './components/OnSubmit';
+import MultipleInput from './components/MultipleInput';
 
 
 function App() {
@@ -71,6 +72,10 @@ function App() {
         {/* On Submit  */}
         <OnSubmit/>
 
+        {/* Multiple Input */}
+        <MultipleInput/>
+
+        
       </header>
     </div>
   );
