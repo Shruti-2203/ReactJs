@@ -62,3 +62,12 @@
 
 18. multiple input field 
 
+19. set data to state in one line
+
+20. Form Validaton 
+
+21. error showing with form Validaton
+
+
+
+

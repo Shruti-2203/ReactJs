@@ -16,6 +16,8 @@ import OnChangeForm from './components/On-change';
 import OnChange2 from './components/OnChange2';
 import OnSubmit from './components/OnSubmit';
 import MultipleInput from './components/MultipleInput';
+import OneLineData from './components/OneLineData';
+import Formvalidation from './components/FormValidation';
 
 
 function App() {
@@ -74,6 +76,15 @@ function App() {
 
         {/* Multiple Input */}
         <MultipleInput/>
+
+        {/* One Line Data  */}
+        <OneLineData/>
+
+
+        {/* Form Validatio */}
+        <Formvalidation/>
+
+        
 
         
       </header>
