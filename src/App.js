@@ -18,6 +18,8 @@ import OnSubmit from './components/OnSubmit';
 import MultipleInput from './components/MultipleInput';
 import OneLineData from './components/OneLineData';
 import Formvalidation from './components/FormValidation';
+import TextArea from './components/TextArea';
+import SelectOption from './components/SelectOption';
 
 
 function App() {
@@ -84,8 +86,13 @@ function App() {
         {/* Form Validatio */}
         <Formvalidation/>
 
-        
+        {/* Text Area */}
+        <TextArea/>
 
+        {/*  Select Option */}
+        <SelectOption/>
+
+        
         
       </header>
     </div>

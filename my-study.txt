@@ -68,6 +68,11 @@
 
 21. error showing with form Validaton
 
+22. textarea input 
 
+23. select option 
 
+24. list 
+
+25. json 
 
