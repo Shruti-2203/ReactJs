@@ -20,6 +20,7 @@ import OneLineData from './components/OneLineData';
 import Formvalidation from './components/FormValidation';
 import TextArea from './components/TextArea';
 import SelectOption from './components/SelectOption';
+import List from './components/List';
 
 
 function App() {
@@ -92,6 +93,8 @@ function App() {
         {/*  Select Option */}
         <SelectOption/>
 
+        {/* List Item */}
+        <List/>
         
         
       </header>
