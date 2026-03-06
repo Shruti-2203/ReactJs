@@ -21,6 +21,7 @@ import Formvalidation from './components/FormValidation';
 import TextArea from './components/TextArea';
 import SelectOption from './components/SelectOption';
 import List from './components/List';
+import ArrayList from './components/ArrayList';
 
 
 function App() {
@@ -95,7 +96,9 @@ function App() {
 
         {/* List Item */}
         <List/>
-        
+         
+         {/* Array List */}
+         <ArrayList/>
         
       </header>
     </div>
