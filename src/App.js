@@ -22,6 +22,9 @@ import TextArea from './components/TextArea';
 import SelectOption from './components/SelectOption';
 import List from './components/List';
 import ArrayList from './components/ArrayList';
+import Bootstrap from './components/Bootstrap';
+import ReactBootstrap from './components/ReactBootstrap';
+
 
 
 function App() {
@@ -99,6 +102,19 @@ function App() {
          
          {/* Array List */}
          <ArrayList/>
+
+         {/* Bootstrap  */}
+         <Bootstrap/>
+
+
+         {/* React Bootstrap */}
+         <ReactBootstrap/>
+
+         
+
+
+
+
         
       </header>
     </div>
