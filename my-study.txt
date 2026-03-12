@@ -78,4 +78,19 @@
 
 26. bootstrap and react bootstrap
 
+27. React Routing Dom 
+
+28. HTTP request 
+
+        HTTP request is used to get or send data to a server (API).
+
+29. AXIOS life cycle method 
+
+30. Fetch data from API 
+
+        componentDidMount()
+
+31. Link load component 
+
+32. 
 
