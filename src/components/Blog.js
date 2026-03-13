@@ -58,7 +58,7 @@ class Blog extends Component {
                         </div>
                     </div>
                     <div className="col-md-3">
-                        <Link to="/home" className="btn btn-primary text-white "> Add Post</Link>
+                        <Link to="/formPost" className="btn btn-primary text-white "> Add Post</Link>
                     </div>
                 </div>
                 

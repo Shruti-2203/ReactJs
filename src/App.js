@@ -8,6 +8,7 @@ import About from './components/About';
 import Service from './components/Service';
 import Blog from './components/Blog';
 import Contact from './components/Contact';
+import FormPost from './components/FormPost';
 
 
 function App() {
@@ -21,9 +22,8 @@ function App() {
           <Route path="/service" element={<Service/>} />
           <Route path="/blog" element={<Blog/>} />
           <Route path="/contact" element={<Contact/>} />
-
+          <Route path="/formPost" element={<FormPost/>} />
           
-
         </Routes>
     </div>
 
