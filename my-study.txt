@@ -99,6 +99,8 @@
 34. Hooks
 
 35. UseState , Class component to functional component
+        when we use functional component then we will use Hooks 
+        when we use class components then we will use state 
 
 36. Functional component to class component 
 

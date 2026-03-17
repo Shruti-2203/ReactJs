@@ -9,6 +9,8 @@ import Service from './components/Service';
 import Blog from './components/Blog';
 import Contact from './components/Contact';
 import FormPost from './components/FormPost';
+import Car from './components/FunctionalComponents';
+import Car2 from './components/ClassComponents';
 
 
 function App() {
@@ -23,8 +25,13 @@ function App() {
           <Route path="/blog" element={<Blog/>} />
           <Route path="/contact" element={<Contact/>} />
           <Route path="/formPost" element={<FormPost/>} />
+          <Route path="/FunctionalComponents" element={<Car/>} />
+          <Route path="/Car2" element={<Car2/> }/>
           
         </Routes>
+        
+
+        
     </div>
 
   );
